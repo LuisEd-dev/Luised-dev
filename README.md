@@ -1,4 +1,5 @@
-### Hi there 👋
+### __
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?link=https://www.linkedin.com/in/luis-eduardo-o-g/)](https://www.linkedin.com/in/luis-eduardo-o-g/)
 
 <!--
 **LuisEd-dev/Luised-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
