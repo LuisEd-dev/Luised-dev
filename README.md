@@ -1,4 +1,4 @@
-### __
+### Luis Eduardo Oliveira Gonçalves
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?link=https://www.linkedin.com/in/luis-eduardo-o-g/)](https://www.linkedin.com/in/luis-eduardo-o-g/)
 
 <!--
