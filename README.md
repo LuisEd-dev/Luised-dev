@@ -1,4 +1,4 @@
-<h1 align="center">Luis Eduardo Oliveira Gonçalves :computer:	</h1>
+# Luis Eduardo Oliveira Gonçalves :computer:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/luis-eduardo-o-g/)](https://www.linkedin.com/in/luis-eduardo-o-g/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqy3Z1pvettKHPIH9GjecOg)](https://www.youtube.com/channel/UCqy3Z1pvettKHPIH9GjecOg)
 ~~~
