@@ -9,7 +9,7 @@ System.out.println("hello world");
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiseduardo123321@gmail.com)
 
 ## Sistemas operacionais atualmente utilizados :dvd:
-[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![Parrot Badge](https://img.shields.io/badge/Parrot&nbsp;OS-74e1ef?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 
 ## Tecnologias estudadas :blue_book:
