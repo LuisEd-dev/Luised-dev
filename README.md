@@ -8,9 +8,11 @@ System.out.println("hello world");
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-eduardo-o-g/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiseduardo123321@gmail.com)
 
+<!--
 ## Sistemas operacionais atualmente utilizados :dvd:
 [![Parrot Badge](https://img.shields.io/badge/Parrot&nbsp;OS-74e1ef?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+
 
 ## Tecnologias estudadas :blue_book:
 
@@ -24,9 +26,10 @@ System.out.println("hello world");
 [![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
 
+-->
+
 ## Instituição de ensino :mortar_board:
-[![Politec](http://colegiopolitec.com.br/2018/img/logo-politec.png)](http://colegiopolitec.com.br/)
-##### Cursando Técnico em Informática
+##### Colégio Politec - Cursando Técnico em Informática
 
 ## Atividades Realizadas :paperclip:
 Atualmente estagiando como desenvolvedor Java :star:
