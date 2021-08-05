@@ -32,7 +32,7 @@ System.out.println("hello world");
 ##### Colégio Politec - Cursando Técnico em Informática
 
 ## Atividades Realizadas :paperclip:
-Atualmente estagiando como desenvolvedor Java :star:
+Atualmente atuando como Desenvolvedor Jr Java :star:
 
 [![Instagram Badge](https://img.shields.io/badge/Boost&nbsp;Informática-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/boostinformatica_/
 )
