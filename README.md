@@ -29,7 +29,8 @@ System.out.println("hello world");
 -->
 
 ## Instituição de ensino :mortar_board:
-##### Colégio Politec - Cursando Técnico em Informática
+##### Faculdade Anhanguera - Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
+##### Colégio Politec - Curso Técnico Informática
 
 ## Atividades Realizadas :paperclip:
 Atualmente atuando como Desenvolvedor Jr Java :star:
