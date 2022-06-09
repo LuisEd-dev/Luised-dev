@@ -45,7 +45,7 @@ push&
 relax
 ~~~
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEd-dev&langs_count=10&theme=nord&layout=compact)](https://github.com/LuisEd-dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisEd-dev&langs_count=10&theme=react&layout=compact)](https://github.com/LuisEd-dev)
 
 <!--
 [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
