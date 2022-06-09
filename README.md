@@ -28,7 +28,7 @@ System.out.println("hello world");
 
 -->
 
-## Instituição de ensino :mortar_board:
+## Instituições de ensino :mortar_board:
 ##### Faculdade Anhanguera - Cursando Tecnologia em Análise e Desenvolvimento de Sistemas
 ##### Colégio Politec - Curso Técnico Informática
 
